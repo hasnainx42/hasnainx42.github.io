@@ -28,9 +28,13 @@ social: false # includes social icons at the bottom of the page
 
 <p style="font-size: 28px; font-weight: bold;">Hello, I'm <b>Hasnain</b> 👋</p>
 
-<p style="font-size: 18px; line-height: 1.6;">I am a Computer Science PhD student at the University of Central Florida and a Machine Learning Engineer dedicated to pushing the boundaries of artificial intelligence. My goal is to connect research with real-world applications, building AI systems that are both efficient and scalable.
+<p style="font-size: 18px; line-height: 1.6;">I’m currently pursuing a PhD in Computer Science where my work focuses on ML Systems and Performance Optimization.
+
+My research interests are centered around making modern AI systems faster, more efficient, and easier to scale. I’m especially interested in LLM serving, distributed inference, GPU performance, prefill/decode disaggregation, KV-cache optimization, speculative decoding, batching and scheduling, model parallelism, and high-performance AI infrastructure.
 </p>
 
 <p style="font-size: 18px; line-height: 1.6;">
-    I love creating technology that solves real problems and makes a positive impact.  With a passion for innovation and entrepreneurship, I believe that well-designed AI has the power to transform industries and improve lives.
+    Before starting my PhD, I worked as a Machine Learning Engineer, where I became interested in what happens beyond model training: how AI models are actually served, optimized, and deployed in real-world systems.
+
+    Right now, I’m exploring the systems challenges behind large language model inference, from reducing latency and improving throughput to designing better serving architectures for the next generation of AI applications.
 </p>
